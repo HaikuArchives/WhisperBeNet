@@ -1,0 +1,109 @@
+# Deutsch
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Oszilloskop"
+"Sound Controls"				"Audioeinstellungen"
+"Connection"				"Verbindung"
+
+#Conection
+"Connect"					"Verbinde"
+"Using IP Address"			"Benutze IP Nummer"
+"Protocol"					"Protokoll"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Verbunden"
+"Disconnected"				"Nicht verbunden"
+"Offline"					"Offline"
+"Online"					"Online"
+
+# File
+"File"						"Datei"
+"About Whisper"				"Über Whisper"
+"Help"					"Hilfe"
+"Preferences"				"Einstellungen"
+"Exit"						"Beenden"
+
+#Edit
+"Edit"						"Bearbeiten"
+"Bookmarks"				"Kontakte"
+"Contacts"					"Kontakte"
+
+#View
+"View"					"Ansicht"
+"Toolbar"					"Toolbar"
+"Status bar"					"Statusbar"
+"Output window"				"Kontrollfenster"
+
+#Actions
+"Actions"					"Aktionen"
+"Connect"					"Verbinde"
+"Disconnect"				"Verbindung trennen"
+"Check for connection"			"Prüfe Verbindung"
+"Go online"					"Online gehen"
+"Go offline"					"Offline gehen"
+
+#About window
+"BeNet team:"				"BeNet Team:"
+
+#waitwindow
+"Connecting to ... "			"Verbinde mit..."
+
+#Remote window
+"End of conversation?"							"Unterhaltung beenden?"
+"Are you sure that you want to end the conversation?"	"Sind Sie sicher, dass Sie die Unterhaltung beenden wollen?"
+"Yes"										"Ja"
+"No"										"Nein"
+
+#Conversation
+"Incoming connection"			"Eingehende Verbindung"
+"Accept call?"				"Anruf annehmen?"
+"Connection refused."			"Verbindung ablehnen"
+"The remote user is busy."		"Der Angerufene ist beschäftigt"
+"Connection timeout"			"Zeitüberschreitung"
+
+#Error messages
+"Error connecting to server"			"Fehler beim Herstellen der Verbindung"
+"It doesn´t look a valid host address"	"Es wurde keine richtige Host Adresse angeben"
+"Please type some host or IP address"	"Bitte tragen Sie einen Host oder eine IP Adresse ein"
+"Unable to get server information\nPlease verify in Network preferences the server's address"		"Es konnte keine Serverinformation empfangen werden.\n Bitte überprüfen Sie Ihre IP-Adresse in den Einstellungen."
+
+#Preferencias
+"General"					"General"
+"Audio"					"Audio"
+"Modem Quality"				"Modem Qualität"
+"Use codec"				"Benutze Codec"
+"Custom compression"			"Benutzerdefinierte Kompression"
+"NBR rate: "					"NBR Rate:"
+
+"Network"					"Netzwerk"
+"Go online on startup"			"Bei Programmstart online gehen"
+"Connection timeout (min)"		"Abbruch Verbindungsaufbau (min)"
+"Server IP address"			"Server IP Nummer"
+"Server Port"				"Server Port"
+"Identity"					"Identität"
+"Name"					"Name"
+"Surname"					"Nachname"
+"E-mail"					"Email"
+
+# new comers
+"Mute"					"Stumm"
+"Support, suggestions & bugs:"	"Supportanfragen, Vorschläge & Fehler:"
+"We found a 'None In' input in the system\nRecording features disabled"		"Es wurde kein Aufnahmegerät gefunden."
+"Email"					"Email"
+"Surname"				"Nachname"
+"Name"					"Vorname"
+"File"					"Datei"
+"New Bookmark"			"Neuer Kontakt"
+"Edit Bookmark"			"Kontakt bearbeiten"
+"Remove Bookmark"		"Kontakt entfernen"
+"Save"					"Speichern"
+"Output"				"Ausgabe"
+"Cancel"				"Abbrechen"
+"Email : "				"Email: "
+"Surname : "			"Nachname: "
+"Name : "				"Vorname: "
+"Using Personal Information"		"Persönliche Informationen"
+"unknown"				"unbekannt"
+"Picture"				"Bild"

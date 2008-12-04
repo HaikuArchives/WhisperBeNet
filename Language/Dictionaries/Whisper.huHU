@@ -1,0 +1,109 @@
+# Deutsch
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Oszcilloszkóp"
+"Sound Controls"				"Audióbeállítások"
+"Connection"				"Kapcsolat"
+
+#Conection
+"Connect"					"Csatlakozás"
+"Using IP Address"			"IP cím használata"
+"Protocol"					"Protokoll"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Csatlakoztatva"
+"Disconnected"				"Csatlakozás megszakadt"
+"Offline"					"Nem elérhető"
+"Online"					"Elérhető"
+
+# File
+"File"						"Fájl"
+"About Whisper"				"A Whisper névjegye"
+"Help"					"Súgó"
+"Preferences"				"Beállítások"
+"Exit"						"Kilépés"
+
+#Edit
+"Edit"						"Szerkesztés"
+"Bookmarks"				"Kedvencek"
+"Contacts"					"Kapcsolatok"
+
+#View
+"View"					"Nézet"
+"Toolbar"					"Eszköztár"
+"Status bar"					"Státuszsor"
+"Output window"				"Kimeneti ablak"
+
+#Actions
+"Actions"					"Aktionen"
+"Connect"					"CSatlakozás"
+"Disconnect"				"Megszakítás"
+"Check for connection"			"Kapcsolat ellenőrzése"
+"Go online"					"Elérhető mód"
+"Go offline"					"Nem elérhető mód"
+
+#About window
+"BeNet team:"				"BeNet csapat:"
+
+#waitwindow
+"Connecting to ... "			"Csatlakozás..."
+
+#Remote window
+"End of conversation?"							"Unterhaltung beenden?"
+"Are you sure that you want to end the conversation?"	"Sind Sie sicher, dass Sie die Unterhaltung beenden wollen?"
+"Yes"										"Igen"
+"No"										"Nem"
+
+#Conversation
+"Incoming connection"			"Bejövő hívás"
+"Accept call?"				"Hívás fogadása?"
+"Connection refused."			"Verbindung ablehnen"
+"The remote user is busy."		"A hívott fél foglalt"
+"Connection timeout"			"Időtúllépés kapcsolódáskor"
+
+#Error messages
+"Error connecting to server"			"Hiba történt a szerverhez való kapcsolódás folyamán,"
+"It doesn´t look a valid host address"	"Ez a cím nem valós állomáscím"
+"Please type some host or IP address"	"Kérem, írja be az állomásnevet, vagy az állomás IP címét"
+"Unable to get server information\nPlease verify in Network preferences the server's address"		"Nem lehet letölteni a szerver információit.\nKérjük ellenőrizze a Hálózati beállításoknál a szerver címét."
+
+#Preferencias
+"General"					"Általános"
+"Audio"					"Audió"
+"Modem Quality"				"Modem minősége"
+"Use codec"				"Használt kodek"
+"Custom compression"			"Egyedi tömörítés"
+"NBR rate: "					"NBR Ráta:"
+
+"Network"					"Hálózat"
+"Go online on startup"			"Bei Programmstart online gehen"
+"Connection timeout (min)"		"Időtúllépés (min)"
+"Server IP address"			"Szerver IP címe"
+"Server Port"				"Szerver port"
+"Identity"					"Ident"
+"Name"					"Név"
+"Surname"					"Nachname"
+"E-mail"					"Email"
+
+# new comers
+"Mute"					"Némítás"
+"Support, suggestions & bugs:"	"Supportanfragen, Vorschläge & Fehler:"
+"We found a 'None In' input in the system\nRecording features disabled"		"Es wurde kein Aufnahmegerät gefunden."
+"Email"					"Email"
+"Surname"				"Nachname"
+"Name"					"Vorname"
+"File"					"Datei"
+"New Bookmark"			"Neuer Kontakt"
+"Edit Bookmark"			"Kontakt bearbeiten"
+"Remove Bookmark"		"Kontakt entfernen"
+"Save"					"Speichern"
+"Output"				"Ausgabe"
+"Cancel"				"Abbrechen"
+"Email : "				"Email: "
+"Surname : "			"Nachname: "
+"Name : "				"Vorname: "
+"Using Personal Information"		"Persönliche Informationen"
+"unknown"				"unbekannt"
+"Picture"				"Bild"

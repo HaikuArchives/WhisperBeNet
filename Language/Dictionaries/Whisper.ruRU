@@ -1,0 +1,96 @@
+#Перевела  на  русский  язык
+#Папоян  Марине
+#(07.08.2004)
+
+#Window
+"Whisper"			"Whisper"
+"Oscilloscope"			"Осциллограф"
+"Sound Controls"			"Звуковые  средства  управления"
+"Connection"			"Связь"
+
+#Conection
+"Connect"			"Соединить"
+"Using IP Address"	"Используя IP адрес"
+"Protocol"			"Протокол"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"			"Связанный"
+"Disconnected"			"Разъединенный"
+"Offline"			"Автономно"
+"Online"			"Онлайн"
+
+# File
+"File"				"Файл"
+"About Whisper"		"О Whisper"
+"Help"				"Помощь"
+"Preferences"		"Конфигурация"
+"Exit"				"Salir"
+
+#Edit
+"Edit"				"Редактировать"
+"Contacts"			"Контакты"
+
+#View
+"View"			"Вид"
+"Toolbar"			"Панель инструментов"
+"Status bar"			"Статус  панели  инструментов"
+"Output window"		"Окно продукции"
+
+#Actions
+"Actions"			"Действия"
+"Connect"			"Соединить"
+"Disconnect"			"Разъединение"
+"Check for connection"	"Проверка  соединения"
+"Go online"			"Быть   онлайн"
+"Go offline"			"Вне  линии"
+
+#About window
+"BeNet team:"		"Команда BeNet:"
+
+#waitwindow
+"Connecting to ... "		"Соединяясь с ..."
+
+#Remote window
+
+"End of conversation?"	"Завершить  разговор?"
+"Are you sure that you want to end the conversation?"          "Вы уверены, что Вы хотите закончить  разговор?"
+"Yes"				"Да"
+"No"				"Нет"
+
+#Conversation
+
+"Incoming connection"           	"Поступающая связь"
+"Accept call?"			"Примите запрос?"
+"Connection refused."		"Связь отказалась."
+"The remote user is busy."		"Отдаленный пользователь занят."
+"Connection timeout"		"Перерыв связи"
+
+#Error messages
+"Error connecting to server"		"Ошибка, соединяющаяся с сервером"
+"It doesn?t look a valid host address" 	"Это не похоже на  действительный адрес"
+"Please type some host or IP address"	"Пожалуйста напечатайте другое  имя или IP адрес"
+
+"Unable to get server information\nPlease verify in Network preferences the server's address"   "Неспособен получить информация с сервера/   пожалуйста проверьте конфигурацию  адреса сервера "
+
+#Preferencias
+"General"			"Главный"
+"Audio"				"Аидио"
+"Modem Quality"		"Качество Модема"
+"Use codec"			"Кодер-декодер использования"
+"Custom compression"		"Персональное  сжатие"
+"NBR rate: "			"NBR rate:"
+"Network"			"Сеть"
+"Go online on startup"		"Начинается  соединение"
+"Connection timeout (min)"	"Время истечения (завершения) (минута)"
+"Server IP address"		"Адрес IP сервера"
+"Server Port"			"Порт Сервера"
+"Identity"			"Идентичность"
+"Name"				"Имя"
+"Surname"			"Фамилия"
+"E-mail"		                          "Электронная почта"
+
+# new comers
+"Mute"			               	"Молчание"
+"Support, suggestions & bugs:"	 "Поддержка, предложения и ошибки:"
+"by"				    	 "из-за"

@@ -1,0 +1,110 @@
+# Japanese locale file for Whisper
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"オシロスコープ"
+"Sound Controls"			"サウンド調整"
+"Connection"				"接続"
+
+#Conection
+"Connect"					"接続する"
+"Using IP Address"			"IP アドレスを使用"
+"Protocol"					"プロトコル"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"接続中"
+"Disconnected"				"切断"
+"Offline"					"オフライン"
+"Online"					"オンライン"
+
+# File
+"File"						"ファイル"
+"About Whisper"				"Whisper について..."
+"Help"					"ヘルプ"
+"Preferences"				"Whisper の設定..."
+"Exit"					"終了"
+
+#Edit
+"Edit"					"編集"
+"Bookmarks"				"お気に入り"
+"Contacts"					"コンタクト"
+
+#View
+"View"					"表示"
+"Toolbar"					"ツール バー"
+"Status bar"				"ステータス バー"
+"Output window"				"出力ウインドウ"
+
+#Actions
+"Actions"					"動作"
+"Connect"					"接続する"
+"Disconnect"				"切断する"
+"Check for connection"		"接続を検出"
+"Go online"					"オンラインになる"
+"Go offline"				"オフラインになる"
+
+#About window
+"BeNet team:"				"BeNet チーム:"
+
+#waitwindow
+"Connecting to ... "			"接続中..."
+
+#Remote window
+"End of conversation?"							"通話を終了しますか？"
+"Are you sure that you want to end the conversation?"	"通話を終了しても良いですか？"
+"Yes"										"はい"
+"No"										"いいえ"
+
+#Conversation
+"Incoming connection"			"呼出"
+"Accept call?"				"通話しますか？"
+"Connection refused."			"呼出を拒否しました。"
+"The remote user is busy."		"相手が通話中です。"
+"Connection timeout"			"接続タイムアウト"
+
+#Error messages
+"Error connecting to server"			"サーバに接続中エラーが発生。"
+"It doesn´t look a valid host address"	"この IP は有効なアドレスではないようです。"
+"Please type some host or IP address"	"ホストまたは IP アドレスを入力してください。"
+"Unable to get server information\nPlease verify in Network preferences the server's address"		"サーバ情報を取得できません。\n「Whisper の設定...」(Alt-P) 中の「ネットワーク」タブサーバ IP の設定を再確認してください。"
+
+#Preferencias
+"General"					"全般"
+"Audio"					"オーディオ"
+"Modem Quality"			"モデム品質"
+"Use codec"				"使用コデック"
+"Custom compression"		"カスタム圧縮を使用"
+"NBR rate: "				"NBR レート:"
+
+"Network"					"ネットーワーク"
+"Go online on startup"			"起動時接続する"
+"Connection timeout (min)"		"タイムアウト設定 (分)"
+"Server IP address"			"サーバ IP "
+"Server Port"				"サーバ ポート"
+"Identity"					"アイデンティティ"
+"Name"					"名前"
+"Surname"					"名字"
+"E-mail"					"電子メール"
+
+# new comers
+"Mute"					"ミュート"
+"Support, suggestions & bugs:"	"サポート、アドバイス＆バグ報告:"
+"We found a 'None In' input in the system\nRecording features disabled"		"'None In' 入力がみつかりました。\n録音機能が無効になっています。"
+"Email"					"電子メール"
+"Surname"				"名字"
+"Name"					"名前"
+"File"					"ファイル"
+"New Bookmark"			"新規お気に入り"
+"Edit Bookmark"			"お気に入りを編集"
+"Remove Bookmark"		"お気に入りを削除"
+"Save"					"保存"
+"Output"				"出力"
+"Output "				"出力"
+"Cancel"				"中止"
+"Email : "				"電子メール: "
+"Surname : "			"名字: "
+"Name : "				"名前: "
+"Using Personal Information"		"個人情報を使っています"
+"unknown"				"不明"
+"Picture"				"写真"

@@ -1,0 +1,95 @@
+# Traduzido em Português do Brasil por Thais Silva Ruiz
+# 7 agosto 2004
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Osciloscopio"
+"Sound Controls"				"Controle de Sons"
+"Connection"				"Conexão"
+
+#Conection
+"Connect"					"Conectar"
+"Using IP Address"			"Utilizando endereço IP"
+"Protocol"					"Protocolo"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Conectado"
+"Disconnected"				"Desconectado"
+"Offline"					"Fora de linha"
+"Online"					"Na linha"
+
+# File
+"File"						"Arquivo"
+"About Whisper"				"Sobre Whisper"
+"Help"					"Ajuda"
+"Preferences"				"Preferencias"
+"Exit"						"Saida"
+
+#Edit
+"Edit"						"Editar"
+"Contacts"					"Agenda"
+
+#View
+"View"					"Ver"
+"Toolbar"					"Barra de ferramentas"
+"Status bar"					"Barra de estado"
+"Output window"				"Janela de output"
+
+#Actions
+"Actions"					"Açoes"
+"Connect"					"Connectar"
+"Disconnect"				"Desconectar"
+"Check for connection"			"Checar conexoes"
+"Go online"					"Em linha..."
+"Go offline"					"Fora de linha"
+
+#About window
+"BeNet team:"				"Equipe BeNet:"
+
+
+#waitwindow
+"Connecting to ... "			"Conectando a ..."
+
+#Remote window
+"End of conversation?"							"Fim da conversaçao?"
+"Are you sure that you want to end the conversation?"	"Tem certeza de que deseja finalizar a conversaçao?"
+"Yes"										"Sim"
+"No"										 "Nao"
+
+#Conversation
+"Incoming connection"			"Chamada recebida"
+"Accept call?"				"Aceitar a chamada?"
+"Connection refused."			"Conexión rechazada"
+"The remote user is busy."		"Interlocutor comunicando."
+"Connection timeout"			"Tempo de espera expirado "
+
+#Error messages
+"Error connecting to server"			"Erro conectando ao servidor"
+"It doesn´t look a valid host address"	"Nao parece um endereço valido"
+"Please type some host or IP address"	"Por favor escreva algum endereço"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "Nao é possivel obter informaçao do servidor\n Porfavor verifique seu endereço no painel de configuraçao"
+
+#Preferencias
+"General"					"General"
+"Audio"					"Audio"
+"Modem Quality"				"Qualidade Modem"
+"Use codec"				"Utilizar codec"
+"Custom compression"			"Compressao personalizada"
+"NBR rate: "					"Ratio NBR:"
+
+"Network"					"Red"
+"Go online on startup"			"Conectar e iniciar"
+"Connection timeout (min)"		 "Tempo de expiraçao (min)"
+"Server IP address"			"Servidor IP endereço"
+"Server Port"				"Puerto"
+"Identity"					"Identidade"
+"Name"					"Nome"
+"Surname"					"Sobrenome"
+"E-mail"					"E-Mail"
+
+
+# new comers
+"Mute"					"Silencio"
+"Support, suggestions & bugs:"	"Suporte, sugestoes e bugs:"
+"by"						"por"

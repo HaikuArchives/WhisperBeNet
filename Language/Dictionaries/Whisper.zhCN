@@ -1,0 +1,94 @@
+# Chinese
+
+# if you translated this file, then your name goes here!
+# TRANSLATED_BY   "Guangjuan Chen"
+# Beijing 02.25.2005
+
+#Window
+"Whisper"					"密谈"
+"Oscilloscope"				"示波器"
+"Sound Controls"				"声音控制"
+"Connection"				"连接"
+
+#Conection
+"Connect"					"连接"
+"Using IP Address"			"使用 IP 地址"
+"Protocol"					"协议"
+"Using Personal Informations"		"使用私人信息"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"已连接"
+"Disconnected"				"断开"
+"Offline"					"离线"
+"Online"					"在线"
+
+# File
+"File"						"文件"
+"About Whisper"				"关于密谈"
+"Help"					"帮助"
+"Preferences"				"参数"
+"Exit"						"退出"
+
+#Edit
+"Edit"						"编辑"
+"Bookmarks"				"书签"
+#"Favorits"					"收藏"
+#"Contacts"					"联系人"
+
+#View
+"View"					"视图"
+"Toolbar"					"工具栏"
+"Status bar"					"状态栏"
+"Output window"				"输出窗口"
+
+#Actions
+"Actions"					"行为"
+"Connect"					"连接"
+"Disconnect"				"断开"
+"Check for connection"			"连接检查"
+"Go online"					"在线"
+"Go offline"					"离线"
+
+#About window
+"BeNet team:"				"BeNet 组:"
+
+#waitwindow
+"Connecting to ... "			"连接到..."
+
+#Remote window
+"End of conversation?"							"结束会话?"
+"Are you sure that you want to end the conversation?"	"您确认要结束会话?"
+"Yes"										"是"
+"No"										"否"
+
+#Conversation
+"Incoming connection"			"引入连接"
+"Accept call?"				"全部接受?"
+"Connection refused."			"拒绝连接"
+"The remote user is busy."		"全程用户忙"
+"Connection timeout"			"连接超时"
+
+#Error messages
+"Error connecting to server"			"连接服务器出错"
+"It doesn´t look a valid host address"	"看起来是无效的主机地址"
+"Please type some host or IP address"	"请输入主机或IP地址"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "不能获得服务器信息\n请在网络参数中校验服务器地址"
+
+#Preferencias
+"General"					"通用"
+"Audio"					"音频"
+"Modem Quality"				"Modem 质量"
+"Use codec"				"使用多媒体数字信号编解码器"
+"Custom compression"			"定制压缩"
+"NBR rate: "					"NBR 比率:"
+
+"Network"					"网络"
+"Go online on startup"			"启动时联机"
+"Connection timeout (min)"		"连接超时(min)"
+"Server IP address"			"服务器 IP 地址"
+"Server Port"				"服务器端口"
+"Identity"					"标识"
+"Name"					"名称"
+"Surname"					"姓"
+"E-mail"					"E-Mail"

@@ -1,0 +1,95 @@
+#Türkçe çeviri Emel Arslan tarafından yapılmıştır
+# Bu fırsatı bana verdiğin için teşekkürler Oliver Ruiz Dorantes... iyi iş çıkardın.
+# 7 august 2004
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Ossiloskop"
+"Sound Controls"				"Ses Kontrolleri"
+"Connection"				"Bağlantı"
+
+#Conection
+"Connect"					"Bağlan"
+"Using IP Address"			"IP Adresinin Kullanımı"
+"Protocol"					"Protokol"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Bağlanıldı"
+"Disconnected"				"Bağlanılamadı"
+"Offline"					"Çevrimdışı"
+"Online"					"Çevrimiçi"
+
+# File
+"File"						"Dosya"
+"About Whisper"				"Whisper Hakkında"
+"Help"					"Yardım"
+"Preferences"				"Tercihler"
+"Exit"						"Çıkış"
+
+#Edit
+"Edit"						"Düzelt"
+"Contacts"					"Ajanda"
+
+#View
+"View"					"Görünüm"
+"Toolbar"					"Araç Çubuğu"
+"Status bar"					"Durum Çubuğu"
+"Output window"				"Çıkış penceresi"
+
+#Actions
+"Actions"					"Eylemler"
+"Connect"					"Bağlan"
+"Disconnect"				"Bağlantıyı kes"
+"Check for connection"			"Bağlantı kontrolü"
+"Go online"					"Çevrimiçi ol"
+"Go offline"					"Çevrimdışı ol"
+
+#About window
+"BeNet team:"				"BeNet Takımı"
+
+#waitwindow
+"Connecting to ... "			"… bağlanıyor"
+
+#Remote window
+"End of conversation?"							"Konuşma sona erdirilsin mi?"
+"Are you sure that you want to end the conversation?"	"Konuşmayı sonlandırmak istediğinizden emin misiniz?"
+"Yes"										"Evet"
+"No"										"Hayır"
+
+#Conversation
+"Incoming connection"			"Gelen konuşma"
+"Accept call?"				"Aramayı kabul etmek ister misiniz?"
+"Connection refused."			"Bağlantı reddedildi"
+"The remote user is busy."		"Karşı taraftaki kullanıcı şu an meşgul"
+"Connection timeout"			"Bağlantı zaman aşımına uğradı"
+
+#Error messages
+"Error connecting to server"			"Server’e bağlanmada hata oluştu"
+"It doesn´t look a valid host address"	"Geçerli ağ adresi değil"
+"Please type some host or IP address"	"Lütfen IP adresi ya da ağ adresi yazınız"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "Server bilgilerine ulaşılamaz.\nLütfen Server adresinin şebeke tercihlerini doğrulayınız"
+
+#Preferencias
+"General"					"Genel"
+"Audio"					"Ses"
+"Modem Quality"				"Modem Kalitesi"
+"Use codec"				"Kodek Kullanımı"
+"Custom compression"			"Kişisel sıkıştırma"
+"NBR rate: "					"NBR oranı:"
+
+"Network"					"Şebeke"
+"Go online on startup"			"Çalıştırarak çevrimiçi ol"
+"Connection timeout (min)"		"bağlantının dakikadaki zaman aşımı"
+"Server IP address"			"Server IP adresi"
+"Server Port"				"Server giriş portu"
+"Identity"					"Kişisel bilgiler"
+"Name"					"Ad"
+"Surname"					"Soyad"
+"E-mail"					"Elektronik Posta"
+
+
+# new comers
+"Mute"					"Sessiz"
+"Support, suggestions & bugs:"	"Destek, öneriler ve merak ettikleriniz"
+"by"						""

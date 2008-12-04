@@ -1,0 +1,99 @@
+# Traducción nativa en español por Oliver Ruiz Dorantes
+# 31 July 2004
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Osciloscopio"
+"Sound Controls"			"Controles de sonido"
+"Connection"				"Conexión"
+
+#Conection
+"Connect"				"Conectar"
+"Using IP Address"			"Utilizando dirección IP"
+"Protocol"					"Protocolo"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Conectado"
+"Disconnected"			"Desconectado"
+"Offline"					"Fuera de línea"
+"Online"					"En línea"
+
+# File
+"File"						"Archivo"
+"About Whisper"			"Acerca de Whisper"
+"Help"					"Ayuda"
+"Preferences"				"Configuración"
+"Exit"						"Salir"
+
+#Edit
+"Edit"					"Editar"
+"Contacts"				"Agenda"
+
+#View
+"View"					"Ver"
+"Toolbar"					"Barra de herramientas"
+"Status bar"				"Barra de estado"
+"Output window"			"Depuración"
+
+#Actions
+"Actions"					"Acciones"
+"Connect"				"Connectar"
+"Disconnect"				"Desconectar"
+"Check for connection"		"Revisar conexiones"
+"Go online"				"En línea..."
+"Go offline"				"Fuera de línea"
+
+#About window
+"BeNet team:"				"Equipo de BeNet"
+
+#waitwindow
+"Connecting to ... "			"Conectando a ..."
+
+#Remote window
+"End of conversation?"							"¿Fin de la conversación?"
+"Are you sure that you want to end the conversation?"	"¿Está seguro que desea finalizar la conversación?"
+"Yes"										"Sí"
+"No"										"No"
+
+#Conversation
+"Incoming connection"			"Llamada recibida"
+"Accept call?"				"¿Aceptar la llamada?"
+"Connection refused."			"Conexión rechazada"
+"The remote user is busy."		"Iterlocutor comunicando"
+"Connection timeout"			"Tiempo de espera expirado"
+
+#Error messages
+"Error connecting to server"			"Error conectando al servidor"
+"It doesn´t look a valid host address"	"No parece una dirección válida"
+"Please type some host or IP address"	"Por favor escriba alguna dirección"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "No es posible obtener información del servidor\nPor favor verifique su dirección en el panel de configuración"
+
+#Preferencias
+"General"					"General"
+"Audio"					"Audio"
+"Modem Quality"			"Calidad Modem"
+"Use codec"				"Utilizar códec"
+"Custom compression"		"Compression personalizada"
+"NBR rate: "				"Ratio NBR:"
+
+"Network"					"Red"
+"Go online on startup"		"Conectar el empezar"
+"Connection timeout (min)"	"Tiempo de expiración (min)"
+"Server IP address"			"Servidor IP"
+"Server Port"				"Puerto"
+"Identity"					"Identidad"
+"Name"					"Nombre"
+"Surname"				"Apellido"
+"E-mail"					"E-Mail"
+
+
+# new comers
+"Mute"					"Silencio"
+"Support, suggestions & bugs:"	"Soporte, sugerencias y bugs:"
+"by"						"por"
+
+" Server found"						" Servidor encontrado"
+" TCP connection established"			" Conexión TCP establecida"
+" Impossible to connect"				" Impossible to conectar"
+"Impossible to establish the TCP connection"	"Imposible establecer la conexión TCP"

@@ -1,0 +1,92 @@
+# Translated to Norwegian bokmål by Frank Paul Silye, frank.silye@yellowtab.com
+# Last modified: 24.07.2004
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Oscilloskop"
+"Sound Controls"				"Lyd innstillinger"
+"Connection"				"Forbindelse"
+
+#Conection
+"Connect"					"Koble til"
+"Using IP Address"			"Bruk IP adresse"
+"Protocol"					"Protokoll"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Koblet til"
+"Disconnected"				"Koblet fra"
+"Offline"					"Avlogget"
+"Online"					"Pålogget"
+
+# File
+"File"						"Fil"
+"About Whisper"				"Om Whisper"
+"Help"					"Hjelp"
+"Preferences"				"Innstillinger"
+"Exit"						"Avslutt"
+
+#Edit
+"Edit"						"Rediger"
+"Bookmarks"				"Kontakter"
+
+#View
+"View"					"Vis"
+"Toolbar"					"Verktøylinje"
+"Status bar"					"Statuslinje"
+"Output window"				"Utdata vindu"
+
+#Actions
+"Actions"					"Handlinger"
+"Connect"					"Koble til"
+"Disconnect"				"Koble fra"
+"Check for connection"			"Sjekk for forbindelse"
+"Go online"					"Logg på"
+"Go offline"					"Logg av"
+
+#About window
+"BeNet team:"				"BeNet team"
+
+#waitwindow
+"Connecting to ... "			"Kobler til ..."
+
+#Remote window
+"End of conversation?"							"Slutt på samtale?"
+"Are you sure that you want to end the conversation?"	"Er du sikker på at du vil avslutte samtalen?"
+"Yes"										"Ja"
+"No"										"Nei"
+
+#Conversation
+"Incoming connection"			"Innkommende samtale"
+"Accept call?"				"Aksepter innkommende samtale"
+"Connection refused."			"Forbindelse avslått"
+"The remote user is busy."		"Den andre brukeren er opptatt"
+"Connection timeout"			"Forbindelse tidsavbrudd"
+
+#Error messages
+"Error connecting to server"			"Feil oppstod ved oppkobling til tjener"
+"It doesn´t look a valid host address"	"Det ser ikke ut til å være en gyldig tjener adresse"
+"Please type some host or IP address"	"Vennligst skriv inn tjener eller IP adresse"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "Klarte ikke å innhente informasjon om tjener maskinen\nVennligst verifiser tjener maskinens adresse i Nettverksinnstillinger"
+
+#Preferencias
+"General"					"Generelt"
+"Audio"					"Audio"
+"Modem Quality"				"Modem kvalitet"
+"Use codec"				"Bruk codec"
+"Custom compression"			"Egendefinert kompressjon"
+"NBR rate: "					"NBR rate:"
+
+"Network"					"Nettverk"
+"Go online on startup"			"Koble automatisk til ved oppstart"
+"Connection timeout (min)"		"Forbindelse tidsavbrudd (min)"
+"Server IP address"			"Tjener IP adresse"
+"Server Port"				"Port"
+"Identity"					"Indikere"
+"Name"					"Navn"
+"Surname"					"Etternavn"
+"E-mail"					"E-post"
+
+# new comers
+"Mute"					"Demp"
+"Support, suggestions & bugs:"	"Brukerstøtte, forslag og feil rapportering:"

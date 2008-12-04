@@ -1,0 +1,90 @@
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Oscilloscope"
+"Sound Controls"			"Sound Controls"
+"Connection"				"Connection"
+
+#Conection
+"Connect"			"Connect"
+"Using IP Address"		"Using IP Address"
+"Protocol"				"Protocol"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"			"Connected"
+"Disconnected"		"Disconnected"
+"Offline"				"Offline"
+"Online"				"Online"
+
+# File
+"File"					"File"
+"About Whisper"		"About Whisper"
+"Help"				"Help"
+"Preferences"			"Preferences"
+"Exit"					"Exit"
+
+#Edit
+"Edit"				"Edit"
+"Contacts"			"Contacts"
+
+#View
+"View"				"View"
+"Toolbar"				"Toolbar"
+"Status bar"			"Status bar"
+"Output window"		"Output window"
+
+#Actions
+"Actions"				"Actions"
+"Connect"			"Connect"
+"Disconnect"			"Disconnect"
+"Check for connection"	"Check for connection"
+"Go online"			"Go online"
+"Go offline"			"Go offline"
+
+#About window
+"BeNet team:"			"BeNet team:"
+
+#waitwindow
+"Connecting to ... "		"Connecting to ... "
+
+#Remote window
+"End of conversation?"							"End of conversation?"
+"Are you sure that you want to end the conversation?"	"Are you sure that you want to end the conversation?"
+"Yes"					"Yes"
+"No"						"No"
+
+#Conversation
+"Incoming connection"		"Incoming connection"
+"Accept call?"				"Accept call?"
+"Connection refused."		"Connection refused."
+"The remote user is busy."	"The remote user is busy."
+"Connection timeout"		"Connection timeout"
+
+#Error messages
+"Error connecting to server"		"Error connecting to server"
+"It doesn´t look a valid host address"	 	"It doesn´t look a valid host address"
+"Please type some host or IP address"	"Please type some host or IP address"
+"Unable to get server information\nPlease verify in Network preferences the server's address" 	"Unable to get server information\nPlease verify in Network preferences the server's address"
+
+#Preferencias
+"General"					"General"
+"Audio"					"Audio"
+"Modem Quality"			"Modem Quality"
+"Use codec"				"Use codec"
+"Custom compression"		"Custom compression"
+"NBR rate: "				"NBR rate: "
+
+"Network"					"Network"
+"Go online on startup"		"Go online on startup"
+"Connection timeout (min)"	"Connection timeout (min)"
+"Server IP address"			"Server IP address"
+"Server Port"				"Server Port"
+"Identity"					"Identity"
+"Name"					"Name"
+"Surname"				"Surname"
+"E-mail"					"E-mail"
+
+# new comers
+"Mute"
+"Support, suggestions & bugs:"	"Support, suggestions & bugs:"
+"by"						"by"

@@ -1,0 +1,106 @@
+# Italian translation by, traduzione italiana di Alessandro De Sanctis
+# 2 August 2004
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Oscilloscopio"
+"Sound Controls"			"Controlli del suono"
+"Connection"				"Connessione"
+
+
+
+#Conection
+"Connect"					"Connetti"
+"Using IP Address"			"Utilizzando indirizzo IP"
+"Protocol"					"Protocollo"
+
+
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Connesso"
+"Disconnected"				"Disconnesso"
+"Offline"					"Fuori linea"
+"Online"					"In linea"
+
+# File
+"File"						"File"
+"About Whisper"				"Informazioni su Whisper"
+"Help"					"Aiuto"
+"Preferences"				"Configurazione"
+"Exit"						"Esci"
+
+#Edit
+"Edit"						"Edit"
+"Contacts"					"Agenda"
+
+#View
+"View"					"Visualizza"
+"Toolbar"					"Barra degli strumenti"
+"Status bar"					"Barra di stato"
+"Output window"				" finestra "
+
+
+
+#Actions
+
+"Actions"					"Azioni"
+"Connect"					"Connettere"
+"Disconnect"				"Disconnettere"
+"Check for connection"			"Verifica connessione"
+"Go online"					"Metti in linea"
+"Go offline"					"Fuori linea"
+
+
+#About window
+"BeNet team:"				"Gruppo BeNet"
+
+#waitwindow
+"Connecting to ... "			"Connessione a ..."
+
+
+
+#Remote window
+"End of conversation?"							"Fine della conversazione?"
+"Are you sure that you want to end the conversation?"	"Sei sicuro di voler terminare la conversazione?"
+
+"Yes"					"Si"
+"No"						"No"
+
+
+
+#Conversation
+"Incoming connection"			"Chiamata in arrivo"
+"Accept call?"				"Accettare la chiamata?"
+"Connection refused."			"Connessione rifiutata"
+"The remote user is busy."		"Iterlocutore occupato"
+"Connection timeout"			"Connessione scaduta"
+
+#Error messages
+"Error connecting to server"			"Errore connettendosi al server"
+"It doesn´t look a valid host address"	"Non sembra un indirizzo host valido"
+"Please type some host or IP address"	"Per favore scrivere un indirizzo host o IP"
+"Unable to get server information\nPlease verify in Network preferences the server's address" "Impossibile ricevere informazioni dal server\nPrego verificare in Preferenze network l'indirizzo del server"
+
+
+#Preferencias
+"General"					"Generale"
+"Audio"					"Audio"
+"Modem Quality"				"Qualità modem"
+"Use codec"				"Usa codec"
+"Custom compression"			"Compressione personalizzata"
+"NBR rate: "					"NBR rate:"
+"Network"					"Rete"
+"Go online on startup"			"Connetti all'avvio"
+"Connection timeout (min)"		"Timeout della connessione (min)"
+"Server IP address"			"Indirizzo IP del server"
+"Server Port"				"Porta server"
+"Identity"					"Identità"
+"Name"					"Nome"
+"Surname"					"Cognome"
+"E-mail"					"E-Mail"
+
+# new comers
+"Mute"					"Muto"
+"Support, suggestions & bugs:"	"Supporto, suggerimenti e bugs:"
+"by"						"di"

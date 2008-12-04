@@ -1,0 +1,269 @@
+_key = "About Whisper"
+_value= "Over Whisper"
+
+
+_key = "Accept call?"
+_value= "Oproep aannemen?"
+
+
+_key = "Actions"
+_value= "Akties"
+
+
+_key = "Are you sure that you want to end the conversation?"
+_value= "Ben je zeker dat je wil afbreken?"
+
+
+_key = "Audio"
+_value= "Audio"
+
+
+_key = "BeNet team:"
+_value= "BeNet Team:"
+
+
+_key = "Bookmarks"
+_value= "Favorieten"
+
+
+_key = "by"
+_value= "door"
+
+
+_key = "Cancel"
+_value= "Annuleren"
+
+
+_key = "Check for connection"
+_value= "Kontroleer verbinding"
+
+
+_key = "Connect"
+_value= "Verbind"
+
+
+_key = "Connected"
+_value= "Verbonden"
+
+
+_key = "Connecting to ... "
+_value= "Verbind met..."
+
+
+_key = "Connection"
+_value= "Verbinding"
+
+
+_key = "Connection refused."
+_value= "Verbinding geweigerd."
+
+
+_key = "Connection timeout"
+_value= "Verbinding timeout"
+
+
+_key = "Connection timeout (min)"
+_value= "Afbreken van de verbinding na (min)"
+
+
+_key = "Contacts"
+_value= "Contacten"
+
+
+_key = "Custom compression"
+_value= "Gebruikers gedefiniëerde kompressie"
+
+
+_key = "Disconnect"
+_value= "Verbinding verbreken"
+
+
+_key = "Disconnected"
+_value= "Verbinding verbroken"
+
+
+_key = "E-mail"
+_value= "E-mail"
+
+
+_key = "Edit"
+_value= "Bewerken"
+
+
+_key = "End of conversation?"
+_value= "Gesprek beëindigen?"
+
+
+_key = "Error connecting to server"
+_value= "Fout bij verbindingsopbouw"
+
+
+_key = "Exit"
+_value= "Afsluiten"
+
+
+_key = "File"
+_value= "Bestand"
+
+
+_key = "General"
+_value= "Algemeen"
+
+
+_key = "Go offline"
+_value= "Offline gaan"
+
+
+_key = "Go online"
+_value= "Online gaan"
+
+
+_key = "Go online on startup"
+_value= "Bij opstarten online gaan"
+
+
+_key = "Help"
+_value= "Help"
+
+
+_key = "Identity"
+_value= "Identiteit"
+
+
+_key = "Incoming connection"
+_value= "Binnenkomende verbinding"
+
+
+_key = "It doesn´t look a valid host address"
+_value= "Het lijkt niet op een geschikt host adres"
+
+
+_key = "Modem Quality"
+_value= "Modem Kwaliteit"
+
+
+_key = "Mute"
+_value= "Stil"
+
+
+_key = "Name"
+_value= "Naam"
+
+
+_key = "NBR rate: "
+_value= "NBR Rate:"
+
+
+_key = "Network"
+_value= "Netwerk"
+
+
+_key = "No"
+_value= "Nee"
+
+
+_key = "Offline"
+_value= "Offline"
+
+
+_key = "Online"
+_value= "Online"
+
+
+_key = "Oscilloscope"
+_value= "Oscilloscoop"
+
+
+_key = "Output"
+_value= "Output"
+
+
+_key = "Output window"
+_value= "Kontrole venster"
+
+
+_key = "Please type some host or IP address"
+_value= "Gelieve een host of IP adres op te geven"
+
+
+_key = "Preferences"
+_value= "Instellingen"
+
+
+_key = "Protocol"
+_value= "Protokol"
+
+
+_key = "Save"
+_value= "Opslaan"
+
+
+_key = "Server IP address"
+_value= "Server IP Nummer"
+
+
+_key = "Server Port"
+_value= "Server Poort"
+
+
+_key = "Sound Controls"
+_value= "Audio instellingen"
+
+
+_key = "Status bar"
+_value= "Statusbar"
+
+
+_key = "Support, suggestions & bugs:"
+_value= "Support, suggesties & bugs:"
+
+
+_key = "Surname"
+_value= "Familienaam"
+
+
+_key = "The remote user is busy."
+_value= "De andere gebruiker is bezet."
+
+
+_key = "Toolbar"
+_value= "Werkbalk"
+
+
+_key = "Unable to get server information
+Please verify in Network preferences the server's address"
+_value= "Kan geen server informatie krijgen
+Gelieve bij Netwerk Instellingen het server adres te kontroleren"
+
+
+_key = "Unable to get server information\nPlease verify in Network preferences the server's address"
+_value= "Kan geen informatie van de server krijgen\nVergewis je ervan dat bij instellingen het juiste server adres staat"
+
+
+_key = "unknown"
+_value= "onbekend"
+
+
+_key = "Use codec"
+_value= "Gebruik Codec"
+
+
+_key = "Using IP Address"
+_value= "Gebruik IP Nummer"
+
+
+_key = "View"
+_value= "Beeld"
+
+
+_key = "We found a 'None In' input in the system\nRecording features disabled"
+_value= "We hebben een 'None In' input gevonden in het systeem\nOpnemen is uitgeschakeld"
+
+
+_key = "Whisper"
+_value= "Whisper"
+
+_key = "Yes"
+_value= "Ja"
+
+

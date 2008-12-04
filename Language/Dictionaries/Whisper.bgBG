@@ -1,0 +1,87 @@
+# Bulgarish translation by Aneliya Mircheva
+
+#Window
+"Whisper"					"Whisper"
+"Oscilloscope"				"Осцилоскоп"
+"Sound Controls"				"Звуково управление"
+"Connection"				"Връзка"
+
+#Conection
+"Connect"					"свързвам"
+"Using IP Address"			"Използва адрес IP"
+"Protocol"					"Протокол"
+
+#Toolbar  --> reused
+#Status bar
+"Connected"				"Свързан"
+"Disconnected"				"Прекъснат"
+"Offline"					"Офлайн"
+"Online"					"Онлайн"
+
+# File
+"File"						"Файл"
+"About Whisper"				"За Whisper"
+"Help"					"Помощ"
+"Preferences"				"Характеристики"
+"Exit"						"Изход"
+
+#Edit
+"Edit"						"Редактирай"
+"Contacts"					"Контакти"
+
+#View
+"View"					"Изглед"
+"Toolbar"					"Командна лента"
+"Status bar"					"Лента за състоянията"
+"Output window"				"Прозорец за изходни данни"
+
+#Actions
+"Actions"					"Действия"
+"Connect"					"Свързване"
+"Disconnect"				"Прекъсване"
+"Check for connection"			"Проверка на връзката"
+"Go online"					"Преминаване в онлайн"
+"Go offline"					"Преминаване в офлайн"
+
+#About window
+"BeNet team:"				"BeNet Team:"
+
+#waitwindow
+"Connecting to ... "			"Свързване към ..."
+
+#Remote window
+"End of conversation?"							"Край на разговора?"
+"Are you sure that you want to end the conversation?"	"Сигурни ли сте, че искате да приключите разговора?"
+"Yes"										"Да"
+"No"										"Не"
+
+#Conversation
+"Incoming connection"			"Постъпващо обаждане"
+"Accept call?"				" Ще приемете ли обаждането?"
+"Connection refused."			"Връзката е отхвърлена."
+"The remote user is busy."		"Отдалеченият потребител е зает."
+"Connection timeout"			"Край на времето за свързване"
+
+#Error messages
+"Error connecting to server"			"Грешка при свързването към сървъра"
+"It doesnВґt look a valid host address"	"Това не е валиден адрес на хост."
+"Please type some host or IP address"	"Моля въведете адрес на хост или IP."
+"Unable to get server information\nPlease verify in Network preferences the server's address" "Няма информация за сървъра\nМоля проверете адреса на сървъра в Мрежови характеристики."
+
+#Preferencias
+"General"					"Общи"
+"Audio"					"Аудио"
+"Modem Quality"				"Качество на модема"
+"Use codec"				"Използвай модем"
+"Custom compression"			"Избери компресия"
+"NBR rate: "					"NBR стойност"
+
+"Network"					"Мрежа"
+"Go online on startup"			"При стартиране премини в състояние Онлайн."
+"Connection timeout (min)"		"Край на времето за свързване (мин)."
+"Server IP address"			"IP адрес на сървъра"
+"Server Port"				"Порт на сървъра"
+"Identity"					"Идентичност"
+"Name"					"Име"
+"Surname"					"Фамилия"
+"E-mail"					"Електронен адрес"
