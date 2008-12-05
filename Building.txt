@@ -1,0 +1,16 @@
+Whisper BeNet
+-----------------------
+
+
+Building for ZETA.
+
+- There is a provided makefile compatible with ZETA which is meant to build Whisper BetNet undr zeta. The IDE erady for building under zeta would be Niue. 
+
+Open Niue and drop inside the whisperbenet folder from the trunk SVN. Afterwards just click on the build Button.
+
+
+Building for Haiku.
+
+- The IDE chosen for Building for Haiku is Paladin, There is a provided pld file with porting intentions.
+
+
