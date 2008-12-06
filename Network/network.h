@@ -28,6 +28,7 @@
 #include <OS.h>
 #include <Window.h>
 #include <sys/socket.h>
+#include <sys/time.h>
 #include <netdb.h> 
 
 #include <iostream.h>
