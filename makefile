@@ -37,8 +37,8 @@ TYPE :=APP
 #	in folder names do not work well with this makefile.
 SRCS := \
 	Network/protocol.cpp \
-	Network/network.cc \
-	Network/connection.cc \
+	Network/network.cpp \
+	Network/connection.cpp \
 	Network/client.cpp \
 	Network/NetworkInterface.cpp \
 	UI/email/EMailIPManager.cpp \
@@ -158,7 +158,7 @@ OPTIMIZE	:=
 #	to use.  For example, setting DEFINES to "DEBUG=1" will cause the
 #	compiler option "-DDEBUG=1" to be used.  Setting DEFINES to "DEBUG"
 #	would pass "-DDEBUG" on the compiler's command line.
-DEFINES		:= 
+DEFINES		:= ZETA
 
 #	specify special warning levels
 #	if unspecified default warnings will be used
