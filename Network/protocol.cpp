@@ -1,12 +1,13 @@
 //#define DEBUG
 
+#ifndef _Output_h
+#include "Output.h"
+#endif
+
 #ifndef _PROTOCOL
 #include "protocol.h"
 #endif
 
-#ifndef _Output_h
-#include "Output.h"
-#endif
 
 //****************************************************************************************
 //	Procedure:	CProtocol::CProtocol

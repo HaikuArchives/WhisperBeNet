@@ -1,13 +1,14 @@
 /* connection.cc */
-#ifndef __CONNECTION_H_
-#include "connection.h"
-#endif
-
 #ifndef _Output_h
 #include "Output.h"
 #endif
 
+#ifndef _CONNECTION_H_
+#include "connection.h"
+#endif
+
 #include <sys/socket.h>
+
 #include <unistd.h>
 #include <netdb.h>
 
@@ -282,7 +283,13 @@ void CConnection::SendRtcpUdp(char *data)
 int CConnection::RecvRtcpUdp(char* pchBuffer, int nMaxLen, sockaddr_in& lRemoteAddress)   
 {
 //	sockaddr_in sinRemote;   // OliverESP: yes can be deleted....
+
+#ifdef ZETA
 	int lenAddr;
+#else	
+	socklen_t lenAddr;
+#endif
+
 
 	lenAddr = sizeof(lRemoteAddress);  // OliverESP
 //	
