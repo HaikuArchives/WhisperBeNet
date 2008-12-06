@@ -6,7 +6,10 @@
 #include "Def.h"
 #endif
 
+#ifdef ZETA
 #include <interface/IconMenu.h>
+#endif
+
 #include <locale/Locale.h>
 
 BeNetMenu::BeNetMenu(BRect frame)
@@ -23,9 +26,14 @@ BeNetMenu::BeNetMenu(BRect frame)
 	m_pFile->AddSeparatorItem();
 	m_pFile->AddItem(m_pExit = new BMenuItem(_T("Exit"), new BMessage(MSG_MENU_EXIT), 'X'));
 		
+#ifdef ZETA
 	BIconMenu* app_menu = new BIconMenu(m_pFile);		// Iconified menu app
-//	AddItem(m_pFile);									// Standard  menu app
 	AddItem(app_menu);
+#else
+	AddItem(m_pFile);									// Standard  menu app
+#endif
+
+
 	
 	//"Edit"
 	m_pEdit = new BMenu(_T("Edit"));
