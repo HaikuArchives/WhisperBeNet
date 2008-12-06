@@ -12,6 +12,8 @@
 #include "SoundUtils.h"
 #endif
 
+#include <math.h>
+
 // These two conversions seem to pop up all the time in media code.
 // I guess it's the curse of microsecond resolution... ;-)
 double
