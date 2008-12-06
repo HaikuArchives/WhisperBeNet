@@ -22,7 +22,7 @@
 |		char * pzLabel: Etiquette de la view.													|
 |		bool bShrink: True si la view doit etre initialiment reduite, false sinon.				|
 \*=============================================================================================*/
-ShrinkView::ShrinkView(BRect frame, char * pzLabel, bool bShrink, BBitmap * pBmp)
+ShrinkView::ShrinkView(BRect frame, const char * pzLabel, bool bShrink, BBitmap * pBmp)
 		: BView::BView(frame, "ShrinkView", B_FOLLOW_NONE, B_WILL_DRAW)	
 {
 	rgb_color color = {192, 192, 192, 0};

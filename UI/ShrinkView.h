@@ -24,7 +24,7 @@
 class ShrinkView: public BView
 {
 	public:
-		ShrinkView(BRect frame, char * pLabel, bool bShrink = false, BBitmap * pBmp = NULL);
+		ShrinkView(BRect frame, const char * pLabel, bool bShrink = false, BBitmap * pBmp = NULL);
 		bool IsShrink() { return m_bShrink; }	
 		
 
