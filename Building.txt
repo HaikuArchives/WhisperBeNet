@@ -1,7 +1,6 @@
 Whisper BeNet
 -----------------------
 
-
 Building for ZETA.
 
 - There is a provided makefile compatible with ZETA which is meant to build Whisper BetNet undr zeta. The IDE erady for building under zeta would be Niue. 
@@ -11,6 +10,12 @@ Open Niue and drop inside the whisperbenet folder from the trunk SVN. Afterwards
 
 Building for Haiku.
 
-- The IDE chosen for Building for Haiku is Paladin, There is a provided pld file with porting intentions.
+- The IDE chosen for Building for Haiku is Paladin, There is a provided pld file.
+
+- The static lib in UI/sgb-R4-x86.a should be placed in /boot/home/config/lib with the name libsgb-R4-x86.a. This is the Santa's Gift Bag intended to be replaced by libwalter in the future. 
+
+Once done that with open the pld file with Paladin and ALT-M should be all u need to do to build the application.
 
 
+
+any doubts: oliver.ruiz.dorantes_at_gmail.com

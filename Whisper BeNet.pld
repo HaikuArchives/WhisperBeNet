@@ -1,5 +1,5 @@
 NAME=Whisper BeNet
-TARGETNAME=BeApp
+TARGETNAME=Whisper BeNet
 GROUP=Source Files
 EXPANDGROUP=yes
 SOURCEFILE=Preferences.cpp
@@ -85,6 +85,7 @@ LIBRARY=/boot/develop/lib/x86/libtranslation.so
 LIBRARY=/boot/develop/lib/x86/libmedia.so
 LIBRARY=/boot/develop/lib/x86/libnetwork.so
 LIBRARY=/boot/develop/lib/x86/libmail.so
+LIBRARY=/boot/home/config/lib/sgb-R4-x86.a
 RUNARGS=
 CCDEBUG=no
 CCPROFILE=no
