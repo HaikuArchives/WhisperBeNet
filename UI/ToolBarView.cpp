@@ -14,7 +14,7 @@
 #include "BitmapCatalog.h"
 #endif
 
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 ToolBarView::ToolBarView(BRect frame) :
 	BView(frame, "ToolBarView", 0, B_WILL_DRAW)

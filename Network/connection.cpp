@@ -293,7 +293,7 @@ int CConnection::RecvRtcpUdp(char* pchBuffer, int nMaxLen, sockaddr_in& lRemoteA
 
 	lenAddr = sizeof(lRemoteAddress);  // OliverESP
 //	
-	int rv = recvfrom(socketRecvRtcpUdp, pchBuffer, nMaxLen, 0, (struct sockaddr *)&lRemoteAddress, &lenAddr);
+	int rv = recvfrom(socketRecvRtcpUdp, pchBuffer, nMaxLen, 0, (struct sockaddr *)&lRemoteAddress, (socklen_t *)&lenAddr);
 //	int rv = recvfrom(socketRecvRtcpUdp, pchBuffer, nMaxLen, 0, (sockaddr*)&sinRemote, &lenAddr);  // OliverESP: following a sure way
 
 //	*lRemoteAddress = (ulong)sinRemote.sin_addr.s_addr;  // it updates? don´t need to be done?

@@ -119,7 +119,6 @@ LIBS :=   \
 	translation \
 	media \
 	socket \
-	zeta \
 	bind \
 	be \
 	stdc++.r4
@@ -295,5 +294,5 @@ LANG_FILES		:= $(wildcard Language/Dictionaries/$(NAME).*)
 #       ie: Language/Dictionaries 
 LANG_FILES_DIR  := Language/Dictionaries
 
-include /boot/develop/etc/makefile-engine
+include ${BUILDHOME}/etc/makefile-engine
 

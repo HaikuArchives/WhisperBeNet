@@ -7,7 +7,7 @@
 #endif
 
 #include <Alert.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 #include "CLVEasyItem.h"
 

@@ -30,7 +30,7 @@
 //#include <storage/Entry.h> // OliverESP: not needed thanks IRA
 #include <app/Roster.h>
 
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 BeNetWindow::BeNetWindow() :
 	BWindow(BRect(0,0,230,209),_T("Whisper"), B_TITLED_WINDOW, B_NOT_RESIZABLE | B_NOT_ZOOMABLE),

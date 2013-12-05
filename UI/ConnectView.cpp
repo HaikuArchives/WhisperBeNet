@@ -38,7 +38,7 @@
 #include <Alert.h>
 #include <Window.h>
 
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 #include <string.h>
 #include <OS.h>
 

@@ -36,7 +36,7 @@
 
 #include <MediaAddOn.h>
 #include <MediaRoster.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 #include "MediaRecorder.h"
 

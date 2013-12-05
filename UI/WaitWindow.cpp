@@ -8,7 +8,7 @@
 
 #include <View.h>
 #include <Button.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 WaitWindow::WaitWindow() :
 	BWindow(BRect(300,300,500,350), "Connecting...",B_MODAL_WINDOW_LOOK, B_MODAL_APP_WINDOW_FEEL, B_NOT_RESIZABLE | B_NOT_ZOOMABLE, B_CURRENT_WORKSPACE)

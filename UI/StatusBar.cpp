@@ -15,7 +15,7 @@
 #endif
 
 #include <stdio.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 StatusBar::StatusBar(BRect frame) :
 	BView(frame, "StatusBar", B_FOLLOW_NONE, B_WILL_DRAW)

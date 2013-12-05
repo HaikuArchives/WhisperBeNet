@@ -11,7 +11,7 @@
 #endif
 
 #include <interface/Window.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 SoundControlsView::SoundControlsView(BRect AFrame, bool bShrink)
 	: ShrinkView(AFrame, (char *) _T("Sound Controls"), bShrink)

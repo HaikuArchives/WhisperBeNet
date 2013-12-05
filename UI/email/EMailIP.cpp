@@ -6,6 +6,9 @@
 #include <Entry.h>
 #include <Directory.h>
 #include <Path.h>
+#include <MailDaemon.h>
+
+#include <mail_encoding.h>
 
 #include <stdio.h>
 #include <string.h>
@@ -46,7 +49,7 @@ bool EMailIP::SendIP(char * pzMailTo, char * pzMyNickName, char * pzMyIPAddress,
 	{
 		return true;
 	}
-	send_queued_mail();
+	BMailDaemon::SendQueuedMail();
 	return false;
 }
 
@@ -60,8 +63,9 @@ PEOPLE_ID_NODE * EMailIP::CheckMail(bool bCheckAll)
 	int32 iResult = 0;
 	m_pFirstID = NULL;
 
-	check_for_mail(&iResult);
-	if(!bCheckAll && iResult == 0)
+	status_t err = BMailDaemon::CheckMail(true);
+	iResult = BMailDaemon::CountNewMessages(true);
+	if(!bCheckAll && (iResult == 0 || err < B_OK))
 	{
 		return NULL;	
 	}
@@ -221,7 +225,7 @@ PEOPLE_ID_NODE* EMailIP::GetInfo(BFile * pFile)
 		
 		size = pFile->Read(pzBuffer, 64000);
 		
-		size = decode_base64(pzBufferOut, pzBuffer, size, false);
+		size = decode_base64(pzBufferOut, pzBuffer, size);
 		filePicture.Write(pzBufferOut, size);
 
 		filePicture.Unset();		

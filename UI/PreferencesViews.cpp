@@ -17,7 +17,7 @@
 #endif
 
 #include <stdlib.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 /************************************/
 /* General Preferences              */
