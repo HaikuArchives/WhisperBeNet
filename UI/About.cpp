@@ -21,7 +21,7 @@
 
 #include <interface/StringView.h> // experimentals...
 //#include "/boot/yt/src/unstable/headers_p/interface/StringView.h"
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 // BRect(100,100,220,400)
 AboutWindow::AboutWindow() :

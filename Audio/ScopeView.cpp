@@ -6,7 +6,7 @@
 #include <interface/Window.h>
 
 #include <string.h>	// for the memset()
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 
 ScopeView::ScopeView(BRect frame, bool bShrink)

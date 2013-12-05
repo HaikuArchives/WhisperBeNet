@@ -1,4 +1,4 @@
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 #ifndef _PictureView_h
 #include "PictureView.h"

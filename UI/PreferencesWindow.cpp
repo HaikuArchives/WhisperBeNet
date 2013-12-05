@@ -12,7 +12,7 @@
 
 //#include <experimental/TabView.h>
 #include <interface/TabView.h>
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 PreferencesWindow::PreferencesWindow() 
 	: BWindow(BRect(0,0,280,175), _T("Preferences"), B_TITLED_WINDOW, B_NOT_RESIZABLE | B_NOT_ZOOMABLE)

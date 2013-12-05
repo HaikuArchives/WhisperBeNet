@@ -1,4 +1,4 @@
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 #ifndef _BookmarksShortcut_h_
 #include "BookmarksShortcut.h"

@@ -1,4 +1,4 @@
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 #ifndef __INFORMATION_VIEW__
 #include "InformationView.h"

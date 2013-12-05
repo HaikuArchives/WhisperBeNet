@@ -12,7 +12,7 @@
 #include "Output.h"
 #endif
 
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 #include <support/Beep.h>
 
 

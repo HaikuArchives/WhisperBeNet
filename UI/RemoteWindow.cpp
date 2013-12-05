@@ -18,7 +18,7 @@
 #include "network.h"
 #endif
 
-#include <locale/Locale.h>
+#include "locale/Locale.h"
 
 RemoteWindow::RemoteWindow(BeNetWindow* window) :
 	BWindow(BRect(0,0,0,0), "RemoteUser", B_TITLED_WINDOW_LOOK, B_NORMAL_WINDOW_FEEL, B_NOT_RESIZABLE | B_NOT_ZOOMABLE, B_CURRENT_WORKSPACE),
