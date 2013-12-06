@@ -121,7 +121,7 @@ LIBS :=   \
 	media \
 	network \
 	be \
-	${STDCLIB}
+	$(STDCPPLIBS)
 
 #	specify additional paths to directories following the standard
 #	libXXX.so or libXXX.a naming scheme.  You can specify full paths
