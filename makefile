@@ -96,7 +96,8 @@ RSRCS := \
 	BeNet.rsrc
 
 #	Specify your RDEF files, if any.
-RDEFS :=
+RDEFS := \
+	BeNet.rsrc
 
 # @<-src@ 
 #%}
