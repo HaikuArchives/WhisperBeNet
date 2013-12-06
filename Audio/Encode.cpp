@@ -7,6 +7,7 @@
 #endif
 
 #include <stdio.h>
+#include <stdlib.h>
 
 Encode::Encode(){
 	g72x_init_state(&state);

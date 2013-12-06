@@ -119,10 +119,9 @@ LIBS :=   \
 	UI/sgb-R4-x86.a \
 	translation \
 	media \
-	socket \
-	bind \
+	network \
 	be \
-	stdc++.r4
+	${STDCLIB}
 
 #	specify additional paths to directories following the standard
 #	libXXX.so or libXXX.a naming scheme.  You can specify full paths
@@ -142,7 +141,8 @@ SYSTEM_INCLUDE_PATHS :=
 #	source file directories are automatically included
 LOCAL_INCLUDE_PATHS := \
 	Audio/codec/ \
-	/boot/home/yt/zeta/Etc/develop/zeta-r1-gcc2-x86/headers/be/bone/rpc/ \
+	/boot/home/config/develop/headers \
+	/boot/system/develop/headers \
 	Network/ \
 	Audio/ \
 	UI/BookmarkTools/ \
@@ -158,7 +158,7 @@ OPTIMIZE	:=
 #	to use.  For example, setting DEFINES to "DEBUG=1" will cause the
 #	compiler option "-DDEBUG=1" to be used.  Setting DEFINES to "DEBUG"
 #	would pass "-DDEBUG" on the compiler's command line.
-DEFINES		:= ZETA
+DEFINES		:=
 
 #	specify special warning levels
 #	if unspecified default warnings will be used
@@ -201,7 +201,7 @@ OBJ_DIR		:=
 TARGET_DIR	:=
 
 #       Special Zeta build system var 
-BOOTREL_INSTALL_DIR     := apps/Internet/Whisper
+BOOTREL_INSTALL_DIR     := apps/Whisper
 
 #       Specify a directory for the 'install' target. 
 INSTALL_DIR     := /boot/$(BOOTREL_INSTALL_DIR)

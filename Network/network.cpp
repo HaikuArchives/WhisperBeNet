@@ -28,6 +28,8 @@
 	} while (0)
 #endif
 
+using namespace std;
+
 CNetwork* CNetwork::m_instance = 0;
 
 //****************************************************************************************

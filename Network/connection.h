@@ -1,10 +1,10 @@
 #ifndef _CONNECTION_H_
 #define _CONNECTION_H_
 
-#include <iostream.h>
+#include <iostream>
 #include <stdio.h>
 #include <string.h>
-#include <be/kernel/OS.h>
+#include <kernel/OS.h>
 
 //#include </boot/develop/headers/be/net/socket.h>
 //#include </boot/develop/headers/be/net/netdb.h> 

@@ -11,7 +11,7 @@
 class BeNetButton : public BButton
 {
 public:
-	BeNetButton(BRect farme, BBitmap *, char * label, uint32 uiMsgID, int iDrawMode, uint32 uiMsgID = 0, bool bAutoToggle = false);
+	BeNetButton(BRect farme, BBitmap *, char * label, uint32 uiMsgID, int iDrawMode, uint32 uiMsgIDToggle = 0, bool bAutoToggle = false);
 	void				SetBitmap(BBitmap * pBmp);
 	void				SetLabel(char * label);
 	void				Toggle();

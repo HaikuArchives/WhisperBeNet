@@ -12,6 +12,8 @@
 #include <unistd.h>
 #include <netdb.h>
 
+using namespace std;
+
 //****************************************************************************************
 //	Procedure:	CConnection::CConnection
 //	Fonction:	Constructeur

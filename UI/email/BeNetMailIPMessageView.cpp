@@ -14,6 +14,7 @@
 #include "BitmapCatalog.h"
 #endif
 
+#include <string.h>
 
 BeNetMailIPMessageView::BeNetMailIPMessageView(BRect frame)
 	: ShrinkView(frame, "Message", false)

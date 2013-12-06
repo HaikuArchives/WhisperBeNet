@@ -353,8 +353,8 @@ void BookmarksMenu::MessageReceived(BMessage *message)
 //	CLASS BookmarkItemWindow
 //*****************************************************************************************************//
 
-BookmarkItemWindow::BookmarkItemWindow(char* i_pTitle, BRect i_AFrame, BookmarksWindow* i_pBookmarksWindow = NULL,
-										ColumnListView* /* i_pColumnListView = NULL */, BookmarkItem* i_pSelectedItem = NULL)
+BookmarkItemWindow::BookmarkItemWindow(char* i_pTitle, BRect i_AFrame, BookmarksWindow* i_pBookmarksWindow,
+										ColumnListView*, BookmarkItem* i_pSelectedItem)
 						: BWindow(i_AFrame, i_pTitle, B_FLOATING_WINDOW_LOOK, B_MODAL_APP_WINDOW_FEEL, 0)
 {
 	m_pBookmarksWindow = i_pBookmarksWindow;

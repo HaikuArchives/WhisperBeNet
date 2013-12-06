@@ -8,6 +8,7 @@
 #include "protocol.h"
 #endif
 
+using namespace std;
 
 //****************************************************************************************
 //	Procedure:	CProtocol::CProtocol

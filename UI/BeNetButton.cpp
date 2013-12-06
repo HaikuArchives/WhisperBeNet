@@ -3,11 +3,10 @@
 #endif
 
 #include <interface/Window.h>
-//#include <interface/View.h> OliverESP: not needed thanks IRA
-//#include <app/Messenger.h> OliverESP: not needed thanks IRA
+#include <string.h>
 
 /*=============================================================================================*\
-|	BeNetButton																				|
+|	BeNetButton																					|
 +-----------------------------------------------------------------------------------------------+
 |	Effet:	Initialisation des membres du bouton.												|
 |																								|
