@@ -15,13 +15,9 @@ resource app_version {
 
 	variety = B_APPV_DEVELOPMENT,
 	internal = 0,
-
-	short_info = #'CSTR' array {
-
-	},
-	long_info = #'CSTR' array {
-
-	}
+	
+	short_info = "WhisperBeNet",
+	long_info = "WhisperBeNet VOIP for Haiku"
 };
 
 resource large_icon array {
