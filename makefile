@@ -195,7 +195,7 @@ APP_VERSION	:=
 DRIVER_PATH	:= 
 
 #	Specify if you want the object files to be somewhere besides the default location.
-OBJ_DIR		:=
+OBJ_DIR		:= ${OBJ_DIR}
 
 #	Specify a non default placement for the target
 TARGET_DIR	:=
