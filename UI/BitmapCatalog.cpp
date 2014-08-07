@@ -94,18 +94,18 @@ BitmapCatalog::FetchBitmap(char* pzFileName, bool bTrans)
 { 
 
 
-/*	BFile file(pzFileName, B_READ_ONLY); 
+	BFile file(pzFileName, B_READ_ONLY); 
 	BTranslatorRoster *roster = BTranslatorRoster::Default(); 
 	BBitmapStream stream; 
 	BBitmap *result = NULL; 
 	if (roster->Translate(&file, NULL, NULL, &stream, B_TRANSLATOR_BITMAP) < B_OK) 
 		return NULL; 
 	stream.DetachBitmap(&result); 
-*/
+
 
 //  OliverESP: 7 x 1 so -> #include <TranslationUtils.h> //OliverESP:
 //			   less code and works
-	BBitmap *result = BTranslationUtils::GetBitmapFile(pzFileName);
+	//BBitmap *result = BTranslationUtils::GetBitmapFile(pzFileName);
 	
 	if (result == NULL)
 		return NULL;

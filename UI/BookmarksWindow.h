@@ -79,7 +79,7 @@ class BookmarksWindow: public BWindow
 		BMenu*				m_pBookmarksMenu;
 		CLVListItem*		m_pNewCLVListItem;
 		ColumnListView*		m_pColumnListView;
-		BetterScrollView*	m_pContainerView;
+		CLVContainerView*	m_pContainerView;
 		BookmarkItem*		m_pSelectedItem;
 		int32				m_vSelectedItemIdx;
 		ConnectView*		m_pConnectView;
