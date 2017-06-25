@@ -49,7 +49,7 @@ bool EMailIP::SendIP(char * pzMailTo, char * pzMyNickName, char * pzMyIPAddress,
 	{
 		return true;
 	}
-	BMailDaemon::SendQueuedMail();
+	BMailDaemon().SendQueuedMail();
 	return false;
 }
 
@@ -63,8 +63,8 @@ PEOPLE_ID_NODE * EMailIP::CheckMail(bool bCheckAll)
 	int32 iResult = 0;
 	m_pFirstID = NULL;
 
-	status_t err = BMailDaemon::CheckMail(true);
-	iResult = BMailDaemon::CountNewMessages(true);
+	status_t err = BMailDaemon().CheckMail(true);
+	iResult = BMailDaemon().CountNewMessages(true);
 	if(!bCheckAll && (iResult == 0 || err < B_OK))
 	{
 		return NULL;	

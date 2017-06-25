@@ -8,6 +8,7 @@
 
 # specify the name of the binary
 NAME= WhisperBeNet
+TARGET_DIR = dist
 
 # specify the type of binary
 #	APP:	Application
@@ -140,7 +141,7 @@ LOCAL_INCLUDE_PATHS =
 
 #	specify the level of optimization that you desire
 #	NONE, SOME, FULL
-OPTIMIZE= FULL
+OPTIMIZE= SOME
 
 # 	specify here the codes for languages you are going
 # 	to support in this application. The default "en"
@@ -161,7 +162,7 @@ DEFINES=
 #	if unspecified default warnings will be used
 #	NONE = supress all warnings
 #	ALL = enable all warnings
-WARNINGS = 
+WARNINGS = ALL
 
 #	specify whether image symbols will be created
 #	so that stack crawls in the debugger are meaningful
@@ -171,7 +172,7 @@ SYMBOLS =
 #	specify debug settings
 #	if TRUE will allow application to be run from a source-level
 #	debugger.  Note that this will disable all optimzation.
-DEBUGGER = TRUE
+DEBUGGER = 
 
 #	specify additional compiler flags for all files
 COMPILER_FLAGS =
